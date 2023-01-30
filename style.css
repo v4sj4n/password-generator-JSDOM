@@ -34,6 +34,7 @@ hr {
   border: 1px solid #2f3e53;
   margin-top: 1.8rem;
   margin-bottom: 1.2rem;
+  width: 75%;
 }
 
 #generate-psw {
